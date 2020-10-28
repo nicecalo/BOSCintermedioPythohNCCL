@@ -1,0 +1,3 @@
+# BOSCintermedioPythohNCCL
+Trabajo final 
+python 
